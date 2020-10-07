@@ -11,7 +11,17 @@ Disciplina IN1024 - Processamento de Imagens - Cin/UFPE - 2020.1
 O objetivo desta pesquisa...
 
 ####  Paper Base
-https://www.
+
+@article{ISLAM2020100412,
+title = "A combined deep CNN-LSTM network for the detection of novel coronavirus (COVID-19) using X-ray images",
+journal = "Informatics in Medicine Unlocked",
+volume = "20",
+pages = "100412",
+year = "2020",
+issn = "2352-9148",
+doi = "https://doi.org/10.1016/j.imu.2020.100412",
+url = "http://www.sciencedirect.com/science/article/pii/S2352914820305621",
+author = "Md. Zabirul Islam and Md. Milon Islam and Amanullah Asraf"}
 
 ####  Apresentação
 https://drive.google.com/file/d/1Eoc7CnDoMmp5zzMVx6Zk5Oi3S54DuTTg/view?usp=sharing
