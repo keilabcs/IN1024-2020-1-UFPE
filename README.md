@@ -21,7 +21,7 @@ A. Gangwar, E. Fidalgo, E. Alegre and V. González-Castro. ["Pornography and chi
 * Usar a Rede VGG16 para detectar Pornografia adulta no conjunto de dados [Pornography-800](https://sites.google.com/site/pornographydatabase/).
 
 ####  Apresentação
-https://drive.google.com/file/d/1Eoc7CnDoMmp5zzMVx6Zk5Oi3S54DuTTg/view?usp=sharing
+https://drive.google.com/file/d/1Eoc7CnDoMmp5zzMVx6Zk5Oi3S54DuTTg/view
 
 ####  Relatório Final
 https://www.overleaf.com/read/qghxcbtvqwcs
